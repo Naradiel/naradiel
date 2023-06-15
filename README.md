@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://linktr.ee/naradiel
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I started to learn in October 22 so I'm really new at this ^^ 
+
+
+<a href="https://hosted.weblate.org/engage/discord-tickets/es/">
+<img src="https://hosted.weblate.org/widgets/discord-tickets/es/bot/svg-badge.svg" alt="Estado de la traducción" />
+</a>
